@@ -18,9 +18,8 @@
   .cover {
     box-shadow: none;
   }
-}
-
-.cover::before {
+  
+}.cover::before {
   content: "";
   position: absolute;
   top: 0;
